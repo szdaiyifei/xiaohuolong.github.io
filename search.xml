@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>my-first-blog</title>
-    <url>/xiaohuolong.github.io/2022/06/27/my-first-blog/</url>
-    <content><![CDATA[<h2 id="小火龙的第一个博客"><a href="#小火龙的第一个博客" class="headerlink" title="小火龙的第一个博客"></a>小火龙的第一个博客</h2><h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h3>]]></content>
-  </entry>
-  <entry>
-    <title>说唱日记</title>
-    <url>/xiaohuolong.github.io/2022/06/27/test-blog/</url>
-    <content><![CDATA[<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2022%252F0703%252Fc8bce1d4j00reeoux003ad200u000gwg00it00al.jpg%26thumbnail%3D660x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659618271&t=853b44bdaa58eee7cb6fe50068ab6232" alt="images"></p>
-<span id="more"></span>
-<h3 id="五年之战"><a href="#五年之战" class="headerlink" title="五年之战"></a>五年之战</h3><p>小白的进步很大，仿佛又回到了五年前有嘻哈感觉，那时候红花会还没有解散，两次挑战黄旭都惜败今年又带着新歌再战，真的是respect，黄旭的台风和flow技巧没的说，赢得实至名归。</p>
-]]></content>
-      <categories>
-        <category>Hiphop</category>
-      </categories>
-      <tags>
-        <tag>Hiphop</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《神探》影评</title>
     <url>/xiaohuolong.github.io/2022/07/11/post/</url>
     <content><![CDATA[<p>《神探》是一部以人格分裂为主题的心理犯罪影片，围绕真实与虚幻展开本片的渲染。大体的案件情节：一晚，高志伟的搭档王国柱追查偷井盖的一个南亚人，结果在半路上摔了一跤，自己的枪被逃跑的南亚人拿走。</p>
@@ -46,5 +27,27 @@
 <p>01:26:50 第三次换枪<br>1）高志伟手中的“好人枪”到了南亚佬手中</p>
 <p>这一步实在是妙，南亚佬无论如何都是坏人，但是高志伟要涂黑就不好办，所以要把“好人枪”拿走，那么，故事就变成了这样。高志伟、陈佳彬、南亚佬三人是这一系列活动的共犯，高志伟甚至在警局修改record来企图瞒天过海，但是法网恢恢，在三人起内讧的那天，陈佳彬开枪杀死南亚佬，何家安与gigi两名警员即时赶到，将两名余犯绳之于法。这个惊天大案终于被警界的未来之星——何家安警员解决，升职在望，前途光芒，当然，伴随着他的还有心魔女，永远在一起。</p>
 ]]></content>
+      <tags>
+        <tag>Movie</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>说唱日记</title>
+    <url>/xiaohuolong.github.io/2022/06/27/test-blog/</url>
+    <content><![CDATA[<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2022%252F0703%252Fc8bce1d4j00reeoux003ad200u000gwg00it00al.jpg%26thumbnail%3D660x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659618271&t=853b44bdaa58eee7cb6fe50068ab6232" alt="images"></p>
+<span id="more"></span>
+<h3 id="五年之战"><a href="#五年之战" class="headerlink" title="五年之战"></a>五年之战</h3><p>小白的进步很大，仿佛又回到了五年前有嘻哈感觉，那时候红花会还没有解散，两次挑战黄旭都惜败今年又带着新歌再战，真的是respect，黄旭的台风和flow技巧没的说，赢得实至名归。</p>
+]]></content>
+      <categories>
+        <category>Hiphop</category>
+      </categories>
+      <tags>
+        <tag>Hiphop</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my-first-blog</title>
+    <url>/xiaohuolong.github.io/2022/06/27/my-first-blog/</url>
+    <content><![CDATA[<h2 id="小火龙的第一个博客"><a href="#小火龙的第一个博客" class="headerlink" title="小火龙的第一个博客"></a>小火龙的第一个博客</h2><h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h3>]]></content>
   </entry>
 </search>
